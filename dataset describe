@@ -1,0 +1,22 @@
+#Ultrasonic flowmeter diagnostics Data Set 
+	Meter D contains 180 instances of diagnostic parameters for a 4-path liquid USM. It has 44 attributes and 4 classes: 
+	Class '1' - Healthy 
+	Class '2' - Gas injection 
+	Class '3' - Installation effects 
+	Class '4' - Waxing
+#User Knowledge Modeling Data Set 
+	STG (The degree of study time for goal object materails), (input value) 
+	SCG (The degree of repetition number of user for goal object materails) (input value) 
+	STR (The degree of study time of user for related objects with goal object) (input value) 
+	LPR (The exam performance of user for related objects with goal object) (input value) 
+	PEG (The exam performance of user for goal objects) (input value) 
+	UNS (The knowledge level of user) (target value) 
+	Very Low: 50 
+	Low:129 
+	Middle: 122 
+	High 130
+#Vertebral Column Data Set 
+	Each patient is represented in the data set by six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine (in this order): 
+	pelvic incidence, pelvic tilt, lumbar lordosis angle, sacral slope, pelvic radius and grade of spondylolisthesis. 
+	The following convention is used for the class labels: 
+	DH (Disk Hernia), Spondylolisthesis (SL), Normal (NO) and Abnormal (AB).
